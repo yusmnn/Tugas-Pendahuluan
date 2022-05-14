@@ -23,11 +23,9 @@
 
 }
 
-#article .container .row table{
+#article .container .row .table{
   color: #f6f7f7;
-  width: 650px;
-  height: 650px;
-  margin-left: 70px;
+  vertical-align: middle;
 }
 
 #contact {
