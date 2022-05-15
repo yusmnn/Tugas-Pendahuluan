@@ -28,6 +28,10 @@
   vertical-align: middle;
 }
 
+code {
+  color: aqua;
+}
+
 #contact {
   color: #4c3a69;
   background-color: #f8f8f8;
